@@ -1,0 +1,149 @@
+{
+  "basics": {
+    "name": "Itay Neeman",
+    "label": "",
+    "picture": "https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAObAAAAJDdmMmE4MjNhLTU4NzAtNGZlOC1iNjFhLWY4NTk5MGMzOTBlZg.jpg",
+    "email": "itay@neeman.net",
+    "phone": "",
+    "website": "",
+    "summary": "",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "Seattle",
+      "countryCode": "",
+      "region": "WA"
+    },
+    "profiles": [
+      {
+        "network": "Twitter",
+        "username": "itayneeman",
+        "url": "https://twitter.com/itayneeman"
+      },
+      {
+        "network": "GitHub",
+        "username": "itay",
+        "url": "https://github.com/itay"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "itayneeman",
+        "url": "https://linkedin.com/in/itayneeman"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Splunk",
+      "position": "Director of Engineering",
+      "website": "",
+      "startDate": "2013-07-01",
+      "endDate": "",
+      "summary": "",
+      "highlights": [
+        "Engineering leadership for the Seattle office, drove growth from 4 people to over 60 today, including interviewing a majority of the office.",
+        "Managed, hired and developed a team of engineers ranging in seniority from junior to principal engineers.",
+        "Driving technical and product strategy for Splunk for the Developer Platform.",
+        "Led and architected several critical technical initiatives, including HTTP ingestion, Splunk's KV Store API, and improvements to Splunk's manageability and scaleability.",
+        "Global engineering release lead for multiple Splunk releases.",
+        "Initiated and drove multiple cross-organizational initiatives to improve Splunk's engineering process, such source control, code reviews, continuous integration and interviewing.",
+        "Part of several technology and architecture evaluations, both internal and external, for forward-looking initiatives."
+      ]
+    },
+    {
+      "company": "Splunk",
+      "position": "Senior Software Engineer",
+      "website": "",
+      "startDate": "2011-07-05",
+      "endDate": "2013-07-01",
+      "summary": "",
+      "highlights": [
+        "Founding engineer of Splunk's Seattle, the first office out of the Bay Area.",
+        "Provided overall technical direction and architecture for our Developer Platform initiative, including Splunk's SDKs, Tooling and Web Framework.",
+        "Lead developer for several of our SDKs and the Splunk Web Framework."
+      ]
+    },
+    {
+      "company": "Microsoft",
+      "position": "SDE II - Technical Strategy Incubation (Midori)",
+      "website": "",
+      "startDate": "2008-08-04",
+      "endDate": "2011-07-01",
+      "summary": "",
+      "highlights": [
+        "Designed and implemented a capability-based security system for low-level resources in a next- generation operating system.",
+        "Designing and implementing synergistic scenarios between OS and hypervisor, including enlightened video and debugging services.",
+        "Involved in design and implementation of various aspects of system, from low-level subsystems to high-level applications and services."
+      ]
+    },
+    {
+      "company": "Microsoft",
+      "position": "SDE Intern - Media Foundation/Windows Experience",
+      "website": "",
+      "startDate": "2007-06-01",
+      "endDate": "2007-08-31",
+      "summary": "",
+      "highlights": [
+        "Developed multimedia playback scenario in Media Foundation and Windows Media Player. This feature shipped as part of Windows 7.",
+        "Implemented metadata solution through Media Foundation for new media format. "
+      ]
+    },
+    {
+      "company": "Bloomberg",
+      "position": "R&D Intern",
+      "website": "",
+      "startDate": "2006-06-01",
+      "endDate": "2006-08-31",
+      "summary": "",
+      "highlights": [
+        "Developed a dynamic administration system for a product, from specification to implementation.",
+        "Wrote functional documentation for legacy FORTRAN code at client request."
+      ]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "University of Washington",
+      "area": "Computer Science",
+      "studyType": "MSc",
+      "startDate": "2010-09-01",
+      "endDate": "2012-06-01",
+      "gpa": "",
+      "courses": []
+    },
+    {
+      "institution": "Brown University",
+      "area": "Computer Science + Economics",
+      "studyType": "BSc + BA",
+      "startDate": "2004-09-01",
+      "endDate": "2008-05-31",
+      "gpa": "",
+      "courses": []
+    },
+    {
+      "institution": "Oxford University",
+      "area": "Computer Science",
+      "studyType": "Visiting Student @ St. Edmund's Hall / Oxford Computing Library",
+      "startDate": "2007-01-01",
+      "endDate": "2007-06-01",
+      "gpa": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "publications": [],
+  "skills": [],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "Hebrew",
+      "fluency": "Native speaker"
+    }
+  ],
+  "interests": [],
+  "references": []
+}
